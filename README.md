@@ -46,7 +46,3 @@ Aplikasi Perpustakaan adalah sebuah aplikasi manajemen perpustakaan digital yang
   <img src="https://github.com/user-attachments/assets/11f1fa77-fda5-4e46-aa38-182a85df87a3" width="200" />
   <img src="https://github.com/user-attachments/assets/0445e3a7-e03e-4e97-89d6-aa149e03f9cb" width="200" />
 </p>
-
-## 💻 Instalasi
-
-1. Clone repository ini
