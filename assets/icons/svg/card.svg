@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="card" x="0" y="0" version="1.1" viewBox="0 0 24 24">
+  <g fill="none" stroke="#303C42" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
+    <path id="XMLID_1361_" d="M.5 19V5A1.5 1.5 0 0 1 2 3.5h20A1.5 1.5 0 0 1 23.5 5v14a1.5 1.5 0 0 1-1.5 1.5H2A1.5 1.5 0 0 1 .5 19z"></path>
+    <path id="XMLID_1333_" d="M15.5 15.5h6"></path>
+    <path id="XMLID_1334_" d="M15.5 12.5h6"></path>
+    <path id="XMLID_1328_" d="M15.5 9.5h6"></path>
+    <path d="M13.5 10.5V13M4 11.29v2.592a1 1 0 0 0 .553.894l1.553.777a4.235 4.235 0 0 0 3.789 0l1.552-.777a1 1 0 0 0 .553-.894V11.18"></path>
+    <path d="m8 8-5.5 2.5L8 13l5.5-2.5zM13.5 13l.5 1.5-.5.5-.5-.5z"></path>
+  </g>
+</svg>
